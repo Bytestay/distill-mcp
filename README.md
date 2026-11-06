@@ -59,7 +59,7 @@ Without a key the server still starts. The first tool call then explains where t
 
 Also listed on Glama:
 
-[![distill-mcp on Glama](https://glama.ai/mcp/servers/hybridforgelab/distill-mcp/badge)](https://glama.ai/mcp/servers/hybridforgelab/distill-mcp)
+[![distill-mcp on Glama](https://glama.ai/mcp/servers/Bytestay/distill-mcp/badge)](https://glama.ai/mcp/servers/Bytestay/distill-mcp)
 
 ## 3. Tools
 
