@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.4](https://github.com/Bytestay/distill-mcp/compare/bytestay-distill-mcp-v0.2.3...bytestay-distill-mcp-v0.2.4) (2026-11-06)
+
+
+### Bug Fixes
+
+* use the io.github.Bytestay namespace the MCP registry grants (case-sensitive) ([#1](https://github.com/Bytestay/distill-mcp/issues/1)) ([46b3a1a](https://github.com/Bytestay/distill-mcp/commit/46b3a1ad44acd656883c3e197089e535ecc0a1a8))
+
 ## [0.2.3](https://github.com/hybridforgelab/distill-mcp/compare/hybridforgelab-distill-mcp-v0.2.2...hybridforgelab-distill-mcp-v0.2.3) (2026-11-05)
 
 
