@@ -1,6 +1,6 @@
 # Distill MCP server
 
-<!-- mcp-name: io.github.bytestay/distill-mcp -->
+<!-- mcp-name: io.github.Bytestay/distill-mcp -->
 
 [![M8ven Score](https://m8ven.ai/badge/mcp/hybridforgelab/distill-mcp?variant=verified)](https://m8ven.ai/mcp/hybridforgelab/distill-mcp?s=readme)
 [![CI](https://github.com/bytestay/distill-mcp/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bytestay/distill-mcp/actions/workflows/ci.yml)

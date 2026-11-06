@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.bytestay/distill-mcp",
+  "name": "io.github.Bytestay/distill-mcp",
   "description": "Web pages to clean Markdown for AI agents, honouring robots.txt and AI opt-outs.",
   "repository": {
     "url": "https://github.com/bytestay/distill-mcp",
