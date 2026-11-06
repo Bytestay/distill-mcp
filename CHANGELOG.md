@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.5](https://github.com/Bytestay/distill-mcp/compare/bytestay-distill-mcp-v0.2.4...bytestay-distill-mcp-v0.2.5) (2026-11-06)
+
+
+### Documentation
+
+* Glama badge points to the Bytestay listing ([#4](https://github.com/Bytestay/distill-mcp/issues/4)) ([030ec5b](https://github.com/Bytestay/distill-mcp/commit/030ec5b6ee76e5b3c3673d278182d92236264233))
+
 ## [0.2.4](https://github.com/Bytestay/distill-mcp/compare/bytestay-distill-mcp-v0.2.3...bytestay-distill-mcp-v0.2.4) (2026-11-06)
 
 
