@@ -7,6 +7,8 @@
 [![PyPI](https://img.shields.io/pypi/v/bytestay-distill-mcp)](https://pypi.org/project/bytestay-distill-mcp/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://pypi.org/project/bytestay-distill-mcp/)
 [![License: MIT](https://img.shields.io/github/license/bytestay/distill-mcp)](LICENSE)
+[![MCP Registry](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fregistry.modelcontextprotocol.io%2Fv0%2Fservers%3Fsearch%3Dio.github.Bytestay%2Fdistill-mcp&query=%24.servers%5B0%5D.server.version&label=MCP%20Registry&color=blue)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.Bytestay/distill-mcp)
+[![Glama](https://glama.ai/mcp/servers/Bytestay/distill-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Bytestay/distill-mcp)
 
 Give your AI agent clean Markdown from any web page: the main content only, without navigation, ads or scripts. Distill honours robots.txt and AI opt-outs.
 
