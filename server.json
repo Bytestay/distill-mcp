@@ -8,12 +8,12 @@
     "id": "1445585239"
   },
   "websiteUrl": "https://distill.bytestay.pt/integration.html#mcp-server",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "packages": [
     {
       "registryType": "pypi",
       "identifier": "bytestay-distill-mcp",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "runtimeHint": "uvx",
       "transport": {
         "type": "stdio"
