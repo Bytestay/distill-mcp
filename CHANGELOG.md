@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.8](https://github.com/Bytestay/distill-mcp/compare/bytestay-distill-mcp-v0.2.7...bytestay-distill-mcp-v0.2.8) (2026-11-09)
+
+
+### Bug Fixes
+
+* read BYTESTAY_* settings, keep HFL_* as a fallback ([#12](https://github.com/Bytestay/distill-mcp/issues/12)) ([806daf4](https://github.com/Bytestay/distill-mcp/commit/806daf4a23ab62a7d5722ffc4f40f84f01a3ca4d))
+
 ## [0.2.7](https://github.com/Bytestay/distill-mcp/compare/bytestay-distill-mcp-v0.2.6...bytestay-distill-mcp-v0.2.7) (2026-11-09)
 
 
