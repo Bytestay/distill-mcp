@@ -9,6 +9,7 @@
 [![License: MIT](https://img.shields.io/github/license/bytestay/distill-mcp)](LICENSE)
 [![MCP Registry](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fregistry.modelcontextprotocol.io%2Fv0%2Fservers%3Fsearch%3Dio.github.Bytestay%2Fdistill-mcp%26version%3Dlatest&query=%24.servers%5B0%5D.server.version&label=MCP%20Registry&color=blue)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.Bytestay/distill-mcp)
 [![Glama](https://glama.ai/mcp/servers/Bytestay/distill-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Bytestay/distill-mcp)
+[![Distill MCP on mcprush](https://mcprush.com/badge/bytestay-distill-mcp/score.svg)](https://mcprush.com/to/bytestay-distill-mcp?ref=badge)
 
 Give your AI agent clean Markdown from any web page: the main content only, without navigation, ads or scripts. Distill honours robots.txt and AI opt-outs.
 
