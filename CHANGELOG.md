@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.7](https://github.com/Bytestay/distill-mcp/compare/bytestay-distill-mcp-v0.2.6...bytestay-distill-mcp-v0.2.7) (2026-11-09)
+
+
+### Documentation
+
+* add the mcprush badge ([#11](https://github.com/Bytestay/distill-mcp/issues/11)) ([28c07d9](https://github.com/Bytestay/distill-mcp/commit/28c07d9028045b3b1f58cbed9fa67a18bd8c28e8))
+* M8ven badge points to the bytestay listing ([#9](https://github.com/Bytestay/distill-mcp/issues/9)) ([ae02946](https://github.com/Bytestay/distill-mcp/commit/ae02946d424e318cefbdef4dea1e325c8006c21b))
+
 ## [0.2.6](https://github.com/Bytestay/distill-mcp/compare/bytestay-distill-mcp-v0.2.5...bytestay-distill-mcp-v0.2.6) (2026-11-08)
 
 
