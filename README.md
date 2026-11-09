@@ -2,7 +2,7 @@
 
 <!-- mcp-name: io.github.Bytestay/distill-mcp -->
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/hybridforgelab/distill-mcp?variant=verified)](https://m8ven.ai/mcp/hybridforgelab/distill-mcp?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/bytestay/distill-mcp?variant=verified)](https://m8ven.ai/mcp/bytestay/distill-mcp?s=readme)
 [![CI](https://github.com/bytestay/distill-mcp/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bytestay/distill-mcp/actions/workflows/ci.yml)
 [![PyPI](https://img.shields.io/pypi/v/bytestay-distill-mcp)](https://pypi.org/project/bytestay-distill-mcp/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://pypi.org/project/bytestay-distill-mcp/)
