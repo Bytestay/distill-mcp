@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.9](https://github.com/Bytestay/distill-mcp/compare/bytestay-distill-mcp-v0.2.8...bytestay-distill-mcp-v0.2.9) (2026-11-12)
+
+
+### Documentation
+
+* note that the repository was formerly Hybrid Forge Lab ([#16](https://github.com/Bytestay/distill-mcp/issues/16)) ([653d6f8](https://github.com/Bytestay/distill-mcp/commit/653d6f854ca590242463e35f8456a9c7f8e909ab))
+* use the mcprush card badge ([#14](https://github.com/Bytestay/distill-mcp/issues/14)) ([cc936d4](https://github.com/Bytestay/distill-mcp/commit/cc936d44cb511ba72e03c6ae3b5ce3871e965990))
+
 ## [0.2.8](https://github.com/Bytestay/distill-mcp/compare/bytestay-distill-mcp-v0.2.7...bytestay-distill-mcp-v0.2.8) (2026-11-09)
 
 
