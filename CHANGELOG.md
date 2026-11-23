@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.10](https://github.com/Bytestay/distill-mcp/compare/bytestay-distill-mcp-v0.2.9...bytestay-distill-mcp-v0.2.10) (2026-11-23)
+
+
+### Bug Fixes
+
+* publish only tags on main, gate the registry job ([#19](https://github.com/Bytestay/distill-mcp/issues/19)) ([372624c](https://github.com/Bytestay/distill-mcp/commit/372624cc26f4216016057fbcd618a81fb89676d5))
+
 ## [0.2.9](https://github.com/Bytestay/distill-mcp/compare/bytestay-distill-mcp-v0.2.8...bytestay-distill-mcp-v0.2.9) (2026-11-12)
 
 
